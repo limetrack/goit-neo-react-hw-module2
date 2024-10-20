@@ -1,0 +1,20 @@
+.options {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 20px;
+}
+
+.good {
+  color: green;
+  border-color: green;
+}
+
+.neutral {
+  color: orange;
+  border-color: orange;
+}
+
+.bad {
+  color: red;
+  border-color: red;
+}
